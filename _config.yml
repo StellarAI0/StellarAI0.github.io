@@ -31,7 +31,6 @@ plugins:
 # Build settings
 markdown: kramdown
 remote_theme: ItsMeaga1n/minimal-categorized
-theme: minimal-categorized
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
